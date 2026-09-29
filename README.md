@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Vinaygit21
-- 👀 I’m a full stack engineer...
-- 💞️ I’m looking to collaborate on a open souces projects...
-- 📫 How to reach me Vinaygit12...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Vinay, a 2026 B.Tech Computer Science graduate and full-stack developer from Uttarakhand, India.
 
-<!---
-Vinaygit21/Vinaygit21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building complete systems from the ground up: backend services, REST APIs, data pipelines, ML integration, and native mobile apps.
+
+🔧 What I work with: Python, Java, JavaScript/React, FastAPI, Spring Boot, PostgreSQL, MongoDB, Redis, Kafka, AWS
+🤖 ML/AI: XGBoost, PyTorch, scikit-learn, LLM APIs, LangChain, RAG
